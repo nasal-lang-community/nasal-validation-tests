@@ -1,5 +1,1 @@
-x = func() {
-    return;
-};
-
-x = y;
+var x = y;
