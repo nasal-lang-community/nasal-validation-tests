@@ -1,4 +1,4 @@
-~var y = func() {
+var y = func() {
     return false;
 };
 
