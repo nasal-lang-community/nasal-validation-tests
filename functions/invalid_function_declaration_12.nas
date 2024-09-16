@@ -1,0 +1,3 @@
+var = func() {
+    return true;
+};
